@@ -1,0 +1,28 @@
+{
+  "name": "strapi-plugin-repositories",
+  "version": "0.0.0",
+  "description": "A list of our repositories from React Avançado Course.",
+  "strapi": {
+    "name": "Repositories",
+    "icon": "code",
+    "description": "A list of our repositories from React Avançado Course."
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Guilherme Pupo",
+    "email": "guilh.pupo@gmail.com",
+    "url": "https://github.com/guilhpupo"
+  },
+  "maintainers": [
+    {
+      "name": "Guilherme Pupo",
+      "email": "guilh.pupo@gmail.com",
+    "url": "https://github.com/guilhpupo"
+    }
+  ],
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
